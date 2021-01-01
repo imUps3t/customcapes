@@ -11,4 +11,4 @@ There is only one requirement:
 
 This will force your operating system to re-route all traffic from s.optifine.net (OptiFine's cape server) to localhost (127.0.0.1, where the server is hosted.)
 
-Edit: Please add the CustomCapes zip file in the release folder and extract it to C:\Users\(user)\CustomCapes
+**Patched** You no longer have to place CustomCapes in a specific folder.
